@@ -6,11 +6,11 @@ This repository contains a collection of Python projects developed during an int
 
 | Project Folder              | Description                                                   |
 |-----------------------------|---------------------------------------------------------------|
-| [Project-1_Voice_Assistant](./Project-1_Voice_Assistant)  | A voice assistant implemented in Python for various tasks.    |
-| [Project-2_BMI_Calculator](./Project-2_BMI_Calculator)   | A BMI calculator that calculates Body Mass Index.             |
-| [Project-3_Random_Password_Generator](./Project-3_Random_Password_Generator) | A tool to generate random passwords securely.          |
-| [Project-4_Basic_Weather_App](./Project-4_Basic_Weather_App)| A basic weather application displaying current weather.       |
-| [Project-5_Chat_Application](./Project-5_Chat_Application) | A simple chat application allowing users to communicate.     |
+| [Voice_Assistant](./Project-1_Voice_Assistant)  | A voice assistant implemented in Python for various tasks.    |
+| [BMI_Calculator](./Project-2_BMI_Calculator)   | A BMI calculator that calculates Body Mass Index.             |
+| [Random_Password_Generator](./Project-3_Random_Password_Generator) | A tool to generate random passwords securely.          |
+| [Basic_Weather_App](./Project-4_Basic_Weather_App)| A basic weather application displaying current weather.       |
+| [Chat_Application](./Project-5_Chat_Application) | A simple chat application allowing users to communicate.     |
 
 ## Installation
 1. Clone this repository: `git clone https://github.com/DemisoDaba/Oasis-Infobyte-Python-Intern.git`
