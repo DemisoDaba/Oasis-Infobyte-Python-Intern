@@ -14,7 +14,7 @@ This is a simple voice assistant program written in Python. It listens to voice 
 - **Weather Information**: Fetches weather information for a specified city.
 - **Email Sending**: Sends emails to specified recipients.
 - **Reminder Setting**: Sets reminders for specified tasks or events.
-- **Smart Home Control**: Controls smart home devices such as lights, thermostats, etc.
+
 
 ## Usage
 
@@ -35,7 +35,6 @@ This is a simple voice assistant program written in Python. It listens to voice 
 - For weather information functionality, you need to provide your OpenWeatherMap API key in the code.
 - For email sending functionality, you need to configure your email settings (SMTP server, port, username, password) in the code.
 - For reminder setting functionality, you need to implement a reminder system or integrate with a calendar service.
-- For smart home control functionality, you need to integrate with smart home APIs or devices.
 
 ## Contributing
 
