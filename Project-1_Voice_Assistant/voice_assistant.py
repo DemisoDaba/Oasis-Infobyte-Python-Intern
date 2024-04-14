@@ -1,4 +1,5 @@
-""" Voice Assistant Program
+""" 
+Voice Assistant Program
     Primary Tasks:
     - Recognize and execute commands like time, date, search, email.
     - Basic interaction using speech recognition and text-to-speech.
@@ -6,7 +7,8 @@
     Advanced Tasks:
     - Fetch weather information based on user input.
     - Answer general knowledge questions using Wikipedia.
-    - Set reminders for specific tasks."""
+    - Set reminders for specific tasks.
+"""
     
 # Function importing
 
