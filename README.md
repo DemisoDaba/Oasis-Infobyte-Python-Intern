@@ -1,6 +1,6 @@
 # Oasis-Infobyte-Python-Intern
 
-This repository contains a collection of Python projects developed during an internship with Oasis-Infobyte.
+This repository contains a collection of Python projects developed during an internship with [Oasis-Infobyte](https://oasisinfobyte.com).
 
 ## Project List
 
