@@ -1,0 +1,4 @@
+# requirements.txt
+random
+string
+tkinter
