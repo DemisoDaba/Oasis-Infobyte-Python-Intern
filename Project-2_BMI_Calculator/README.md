@@ -4,11 +4,11 @@ This README provides an overview of the code structure, usage instructions, and 
 
 ## Code Structure
 
-The project consists of two main Python scripts:
+The project consists of two main tasks:
 
-1. `bmi_calculator.py`: This script contains the implementation of the BMI calculator at the beginner level, with a command-line interface (CLI).
+1. The implementation of the BMI calculator at the beginner level, with a command-line interface (CLI).
    
-2. `bmi_gui.py`: This script implements the BMI calculator at the advanced level, featuring a graphical user interface (GUI) using Tkinter. It also includes data storage capabilities using SQLite and visualization of BMI trends with Matplotlib.
+2. The implements the BMI calculator at the advanced level, featuring a graphical user interface (GUI) using Tkinter. It also includes data storage capabilities using SQLite and visualization of BMI trends with Matplotlib.
 
 Additionally, the project includes a `requirements.txt` file listing the required dependencies for running the code.
 
@@ -30,7 +30,7 @@ To use the BMI calculator at the advanced level with a GUI, follow these steps:
 
 1. Ensure you have Tkinter, SQLite3, and Matplotlib installed (see Requirements section).
 2. Open a terminal or command prompt.
-3. Navigate to the directory containing the `bmi_gui.py` script.
+3. Navigate to the directory containing the `bmi_calculator.py` script.
 4. Run the script using Python:
 5. The GUI window will appear, allowing you to input your weight and height.
 6. Click the "Calculate BMI" button to calculate your BMI and display the result.
