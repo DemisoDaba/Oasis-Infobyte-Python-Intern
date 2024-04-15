@@ -15,7 +15,7 @@ A Python password generator with both command-line and graphical user interface 
 
 To use the command-line interface:
 
-```bash
+
 python password_generator.py cli
 Follow the prompts to specify password length and character types.
 
@@ -31,7 +31,6 @@ Tkinter (for GUI mode)
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/password-generator.git
 Navigate to the project directory:
 
 cd password-generator
