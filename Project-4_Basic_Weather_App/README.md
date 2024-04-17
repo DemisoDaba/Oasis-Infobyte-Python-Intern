@@ -77,7 +77,7 @@ This folder contains two weather forecast applications implemented in Python, ca
 ## Credits
 
 - This application uses the [Open Meteo API](https://open-meteo.com) to fetch weather data.
-- Developed by [Your Name].
+- Developed by [Demiso Daba](https://github.com/DemisoDaba).
 
 ## License
 
