@@ -1,6 +1,6 @@
 # Weather Forecast Applications
 
-This repository contains two weather forecast applications implemented in Python, catering to both beginner and advanced users. These applications retrieve current weather information for a specified city using the Open Meteo API.
+This folder contains two weather forecast applications implemented in Python, catering to both beginner and advanced users. These applications retrieve current weather information for a specified city using the Open Meteo API.
 
 ## Beginner-Level Weather App
 
