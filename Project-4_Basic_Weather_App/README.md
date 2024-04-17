@@ -30,7 +30,7 @@ This folder contains two weather forecast applications implemented in Python, ca
     - Navigate to the directory containing the script.
     - Run the script using Python:
     ```
-    python weather_forecast.py
+    python weather_app_beginner.py
     ```
 
 2. **Enter City Name**:
@@ -62,9 +62,9 @@ This folder contains two weather forecast applications implemented in Python, ca
 ## Usage
 
 1. **Run the Application**:
-    - Execute the Python script `weather_app.py`.
+    - Execute the Python script `weather_app_advanced.py`.
     ```
-    python weather_app.py
+    python weather_app_advanced.py
     ```
 
 2. **Enter City Name**:
