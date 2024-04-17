@@ -4,9 +4,9 @@ This repository contains a collection of Python projects developed during an int
 
 ## Project List
 
-| Project Folder              | Description                                                   |
-|-----------------------------|---------------------------------------------------------------|
-| [Voice_Assistant](./Project-1_Voice_Assistant)  | A voice assistant implemented in Python for various tasks.    |
+| Project Folder              | Description                                                   |Live Demo|
+|-----------------------------|---------------------------------------------------------------|---------|
+| [Voice_Assistant](./Project-1_Voice_Assistant)  | A voice assistant implemented in Python for various tasks.    | [Click here](https://www.youtube.com/watch?v=dJRvtUx5S9o) |
 | [BMI_Calculator](./Project-2_BMI_Calculator)   | A BMI calculator that calculates Body Mass Index.             |
 | [Random_Password_Generator](./Project-3_Random_Password_Generator) | A tool to generate random passwords securely.          |
 | [Basic_Weather_App](./Project-4_Basic_Weather_App)| A basic weather application displaying current weather.       |
