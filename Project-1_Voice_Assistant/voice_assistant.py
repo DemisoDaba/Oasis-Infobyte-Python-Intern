@@ -1,13 +1,13 @@
 """ 
 Voice Assistant Program
     Primary Tasks:
-    - Recognize and execute commands like time, date, search, email.
+    - Recognize and execute commands like time, date, search.
     - Basic interaction using speech recognition and text-to-speech.
 
     Advanced Tasks:
     - Fetch weather information based on user input.
     - Answer general knowledge questions using Wikipedia.
-    - Set reminders for specific tasks.
+    - Set reminders for specific tasks, sending email
 """
     
 # Function importing
@@ -76,15 +76,12 @@ def perform_task(query):
         set_reminder()
     elif "question" in query:
         answer_question()
-    elif "sooromeen eessa jirti?" in query:
-        speak("Si bira teessee Feesbuukii ilaalti")
-    elif "exit" in query or "quit" in query:
-        speak("Goodbye!")
+    elif "Goodbye" in query or "quit" in query:
+        speak("Goodbye, and have a nice time!")
         exit()
     else:
         speak("Sorry, I couldn't understand that command.")
 
-# Function to send an email
 # Function to send an email
 def send_email():
     recipient = os.getenv("RECIPIENT_EMAIL")  # Email address of the recipient
