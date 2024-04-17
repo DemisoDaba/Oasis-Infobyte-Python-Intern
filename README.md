@@ -14,12 +14,11 @@ This repository contains a collection of Python projects developed during an int
 
 ## Installation
 1. Clone this repository: `git clone https://github.com/DemisoDaba/Oasis-Infobyte-Python-Intern.git`
-2. [I will add Additional installation instructions for specific projects, if needed]
+2. Additional installation and processes where included in each directory, feel free to do so.
 
 ## Usage
 1. Navigate to the project directory: `cd Oasis-Infobyte-Python-Intern/Project-X`
-2. [I will put the Instructions on how to run each project here later]
-3. [I will put or drop Example usage or code snippets for each by later]
+2. Follow the instruction in each directory and act as you need
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to any of the projects, feel free to submit a pull request or open an issue.
