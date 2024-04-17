@@ -22,8 +22,7 @@ This folder contains two weather forecast applications implemented in Python, ca
     ```
 
 3. **API Key**:
-    - This script uses the Open Meteo API to fetch weather forecast data. You need to sign up for an API key [here](https://open-meteo.com/signup) and replace `<YOUR_API_KEY>` in the code with your actual API key.
-
+    - This script uses the Open Meteo API to fetch weather forecast data. You need to sign up for an API key [here](https://open-meteo.com/signup) and The Open Meteo API is publicly accessible, allowing users to make requests to the API endpoint without any authentication.. 
 ## Usage
 
 1. **Run the Script**:
@@ -58,7 +57,7 @@ This folder contains two weather forecast applications implemented in Python, ca
         ```
 
 2. **API Key**:
-    - This application uses the Open Meteo API to fetch weather forecast data. You need to sign up for an API key [here](https://open-meteo.com/signup) and replace `<YOUR_API_KEY>` in the code with your actual API key.
+    - This application uses the Open Meteo API to fetch weather forecast data. You need to sign up for an API key [here](https://open-meteo.com/signup) and The Open Meteo API is publicly accessible, allowing users to make requests to the API endpoint without any authentication..
 
 ## Usage
 
