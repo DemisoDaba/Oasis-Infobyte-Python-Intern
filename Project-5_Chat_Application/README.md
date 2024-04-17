@@ -44,6 +44,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- Special thanks to [OpenAI](https://openai.com) for providing the amazing ChatGPT model!
 - Thanks to all contributors who helped make this project better.
 
