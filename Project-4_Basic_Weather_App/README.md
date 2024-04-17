@@ -1,53 +1,77 @@
-# Weather Forecast Applications
+# Weather Applications
 
 This folder contains two weather forecast applications implemented in Python, catering to both beginner and advanced users. These applications retrieve current weather information for a specified city using the Open Meteo API.
 
 ## Beginner-Level Weather App
 
-### Features
+## Setup
 
-- **User-Friendly Interface**: Utilizes Tkinter for a simple GUI.
-- **Basic Weather Display**: Shows essential weather parameters such as temperature, humidity, and precipitation.
+1. **Installation**:
+    - Clone this repository to your local machine.
+    - Make sure you have Python installed.
 
-## Advanced-Level Weather App
+2. **Dependencies**:
+    - This script requires the following Python libraries:
+        - `requests`
+        - `geopy`
+        - `prettytable`
 
-### Features
-
-- **Advanced GUI**: Employs Tkinter for a more sophisticated user interface.
-- **Comprehensive Weather Data**: Displays a wide range of weather parameters including wind speed, cloud cover, and surface pressure.
-- **Error Handling**: Provides error messages for failed API requests and invalid city names.
-
-## Setup and Usage
-
-1. **Clone the Repository**:
+    You can install these dependencies using pip:
     ```
-    git clone <repository_url>
-    cd weather-forecast
-    ```
-
-2. **Install Dependencies**:
-    ```
-    pip install -r requirements.txt
+    pip install requests geopy prettytable
     ```
 
 3. **API Key**:
-    - Sign up for an API key [here](https://open-meteo.com/signup).
-    - Replace `<YOUR_API_KEY>` in the code with your actual API key.
+    - This script uses the Open Meteo API to fetch weather forecast data. You need to sign up for an API key [here](https://open-meteo.com/signup) and replace `<YOUR_API_KEY>` in the code with your actual API key.
 
-4. **Run the Applications**:
-    - For the Beginner-Level Weather App:
+## Usage
+
+1. **Run the Script**:
+    - Open a terminal or command prompt.
+    - Navigate to the directory containing the script.
+    - Run the script using Python:
+    ```
+    python weather_forecast.py
+    ```
+
+2. **Enter City Name**:
+    - You will be prompted to enter the name of the city for which you want to retrieve the weather forecast.
+
+3. **View Weather Forecast**:
+    - The script will display the current weather information for the specified city, including temperature, humidity, surface pressure, and wind speed.
+
+## Advanced-Level Weather App
+
+## Features
+
+- **User Input**: Enter the name of the city for which you want to retrieve the weather forecast.
+- **Display Weather**: Upon clicking the "Get Weather" button, the application fetches weather data and displays it.
+- **Weather Information**: Shows various weather parameters including temperature, humidity, precipitation, wind speed, etc.
+
+## Setup
+
+1. **Dependencies**:
+    - Ensure you have Python installed on your system.
+    - Install required Python libraries:
         ```
-        python beginner_weather_app.py
-        ```
-    - For the Advanced-Level Weather App:
-        ```
-        python advanced_weather_app.py
+        pip install tkinter requests geopy pillow
         ```
 
-5. **Enter City Name**:
+2. **API Key**:
+    - This application uses the Open Meteo API to fetch weather forecast data. You need to sign up for an API key [here](https://open-meteo.com/signup) and replace `<YOUR_API_KEY>` in the code with your actual API key.
+
+## Usage
+
+1. **Run the Application**:
+    - Execute the Python script `weather_app.py`.
+    ```
+    python weather_app.py
+    ```
+
+2. **Enter City Name**:
     - In the GUI window that appears, enter the name of the city for which you want to retrieve the weather forecast.
 
-6. **Get Weather**:
+3. **Get Weather**:
     - Click the "Get Weather" button.
     - The application will display the current weather information for the specified city.
 
