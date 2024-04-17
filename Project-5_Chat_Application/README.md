@@ -22,13 +22,13 @@ Welcome to Awesome Chat App! This is a simple yet powerful chat application that
 3. **Run the Server**:
     - Start the server by running:
         ```
-        python server.py
+        python server_side.py
         ```
 
 4. **Run the Client Application**:
     - Run the client application by executing:
         ```
-        python client.py
+        python client_side.py
         ```
 
 5. **Connect and Chat**:
