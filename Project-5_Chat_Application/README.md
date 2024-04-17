@@ -1,4 +1,3 @@
-"""
 # Chat App
 
 Welcome to Awesome Chat App! This is a simple yet powerful chat application that allows you to connect with others in real-time and engage in conversations.
