@@ -8,8 +8,8 @@ This repository contains a collection of Python projects developed during an int
 |-----------------------------|---------------------------------------------------------------|---------|
 | [Voice_Assistant](./Project-1_Voice_Assistant)  | A voice assistant implemented in Python for various tasks.    | [Click here](https://www.youtube.com/watch?v=dJRvtUx5S9o) |
 | [BMI_Calculator](./Project-2_BMI_Calculator)   | A BMI calculator that calculates Body Mass Index.             |[Click here](https://www.youtube.com/watch?v=f1yd8w8-Vmw&t=178s) |
-| [Random_Password_Generator](./Project-3_Random_Password_Generator) | A tool to generate random passwords securely.          |
-| [Basic_Weather_App](./Project-4_Basic_Weather_App)| A basic weather application displaying current weather.       |
+| [Random_Password_Generator](./Project-3_Random_Password_Generator) | A tool to generate random passwords securely.|[Click here](https://www.youtube.com/watch?v=_RBJ1-Y6pWY&t=239s)|
+| [Basic_Weather_App](./Project-4_Basic_Weather_App)| A basic weather application displaying current weather.       |[Click here](https://www.youtube.com/watch?v=oGSel5cyrc8)|
 | [Chat_Application](./Project-5_Chat_Application) | A simple chat application allowing users to communicate.     |
 
 ## Installation
